@@ -1,6 +1,6 @@
 # TIC TAC TOE
-A Tic Tac Toe game created in command line with Cpp programming Language.
-Implemented as a mini project for College.
+## COMMAND LINE : BASIC PROJECT
+A Tic Tac Toe game created in command line with CPP programming Language.
 
 ![alt text](https://github.com/sumconsole/TicTacToe/blob/master/Screenshots/SS1.png)
 ![alt text](https://github.com/sumconsole/TicTacToe/blob/master/Screenshots/SS2.png)
