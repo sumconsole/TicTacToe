@@ -80,7 +80,7 @@ char value = 'X';
 
 void clear()
 {
-    system("cls");
+    system("clear");
 }
 void update()
 {
@@ -220,6 +220,7 @@ int result()
         printf("\nPlayer %d wins\n", player);
         return player;
     }
+    return 0;
 }
 void reset()
 {
