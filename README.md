@@ -1,6 +1,6 @@
 # TIC TAC TOE
 
-A Tic Tac Toe game created in command line with CPP programming Language.
+A Tic Tac Toe game created in command line with C++ programming Language.
 
 ![SS1](https://github.com/sumconsole/TicTacToe/blob/master/Screenshots/SS1.png)
 
